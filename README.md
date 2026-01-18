@@ -19,6 +19,7 @@ TechStore es una aplicación web de comercio electrónico orientada a la venta d
 * Estructura Escalable: Organización del proyecto pensada para futuros módulos de negocio digital.
 
 ## 📁 Estructura del Proyecto
+.
 📦 techstore
 
  ┣ 📜 app.js          # Servidor principal y configuración de rutas
