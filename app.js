@@ -35,7 +35,7 @@ const listaProductos = [
     imagen: "https://dummyimage.com/200x200/000/fff&text=Audifonos"
 },
 {
-    nombre: "Mouse ergonómico",
+    nombre: "Mouse Ergonómico",
     precio: 50,
     categoria: "perifericos",
     imagen: "https://dummyimage.com/200x200/000/fff&text=Mouse"
@@ -45,6 +45,12 @@ const listaProductos = [
     precio: 80,
     categoria: "perifericos",
     imagen: "https://dummyimage.com/200x200/000/fff&text=Teclado"
+},
+{
+    nombre: "Monitor Gamer",
+    precio: 390,
+    categoria: "computadores",
+    imagen: "https://dummyimage.com/200x200/000/fff&text=Monitor+Gamer"
 }
 ];
 
